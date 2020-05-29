@@ -14,3 +14,4 @@ Give likes based on hashtags.
 - Auto-Comment
 Publish random comments based on a custom comment list.
 
+[![Run on Repl.it](https://repl.it/badge/github/dbarrena/InstaJ)](https://repl.it/github/dbarrena/InstaJ)
